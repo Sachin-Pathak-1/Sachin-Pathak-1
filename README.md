@@ -1,6 +1,27 @@
-# 💫 About Me:
-Hi, I’m Sachin Pathak, a frontend developer in progress who enjoys building clean, responsive, and usable web interfaces. I learn mainly through hands-on projects, exploring how real websites are structured and improved over time.<br><br>I work with HTML, CSS, JavaScript, and React, focusing on clear code, thoughtful layouts, and smooth user experience across devices. I believe steady learning and real projects matter more than shortcuts, and this profile reflects that journey.
+💫 Hi 👋, I'm Sachin Pathak
 
+A Frontend Developer in progress || UI-focused || Project-driven learner from India
+
+🔭 I’m currently working on: Frontend projects using HTML, CSS, JavaScript & React
+
+🌱 I’m currently learning: Advanced JavaScript, React fundamentals, responsive design
+
+👯 I’m looking to collaborate on: Frontend projects, UI clones, beginner-friendly web apps
+
+🤔 I’m looking for help with: Writing cleaner code and improving UI structure
+
+💬 Ask me about: HTML, CSS, React basics, GitHub Pages
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I believe real projects matter more than perfect commit graphs
+
+🔗 Passionate about building and improving web interfaces 🚀
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachin._.pathak_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-pathak-1letitbe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinpathak9323@gmail.com) 
