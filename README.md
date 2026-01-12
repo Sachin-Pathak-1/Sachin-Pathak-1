@@ -1,4 +1,4 @@
-#💫 Hi 👋, I'm Sachin Pathak
+# 💫 Hi 👋, I'm Sachin Pathak
 
 **A Frontend Developer in progress || UI-focused || Project-driven learner from India**
 
@@ -16,7 +16,7 @@
 
 ⚡ **Fun fact: I believe real projects matter more than perfect commit graphs**
 
-##🔗 Passionate about building and improving web interfaces 🚀
+## 🔗 Passionate about building and improving web interfaces 🚀
 
 
 <div align="center">
