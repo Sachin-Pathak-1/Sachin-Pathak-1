@@ -1,22 +1,22 @@
-💫 Hi 👋, I'm Sachin Pathak
+#💫 Hi 👋, I'm Sachin Pathak
 
-A Frontend Developer in progress || UI-focused || Project-driven learner from India
+**A Frontend Developer in progress || UI-focused || Project-driven learner from India**
 
-🔭 I’m currently working on: Frontend projects using HTML, CSS, JavaScript & React
+🔭 **I’m currently working on: Frontend projects using HTML, CSS, JavaScript & React**
 
-🌱 I’m currently learning: Advanced JavaScript, React fundamentals, responsive design
+🌱 **I’m currently learning: Advanced JavaScript, React fundamentals, responsive design**
 
-👯 I’m looking to collaborate on: Frontend projects, UI clones, beginner-friendly web apps
+👯 **I’m looking to collaborate on: Frontend projects, UI clones, beginner-friendly web apps**
 
-🤔 I’m looking for help with: Writing cleaner code and improving UI structure
+🤔 **I’m looking for help with: Writing cleaner code and improving UI structure**
 
-💬 Ask me about: HTML, CSS, React basics, GitHub Pages
+💬 **Ask me about: HTML, CSS, React basics, GitHub Pages**
 
-😄 Pronouns: He/Him
+😄 **Pronouns: He/Him**
 
-⚡ Fun fact: I believe real projects matter more than perfect commit graphs
+⚡ **Fun fact: I believe real projects matter more than perfect commit graphs**
 
-🔗 Passionate about building and improving web interfaces 🚀
+##🔗 Passionate about building and improving web interfaces 🚀
 
 
 <div align="center">
